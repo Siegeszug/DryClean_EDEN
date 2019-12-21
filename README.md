@@ -11,3 +11,5 @@ This repo contains 3 copies of the report: One printable PDF copy - found in the
 Data is all contained in the `Data` folder in Excel Spreadsheets; along with the survey questions used in the public survey.
 
 Images of the dry cleaners and ECO ALB materials can be found in the `Images` folder.
+
+Deliverables, including the sample activism materials and the dry cleaner information pamphlet can be found in the `Deliverables` folder.
