@@ -4,3 +4,8 @@ This project identified opportunities to reduce risk from the dry cleaning indus
 
 ## How to use:
 In order to download the entire contents of the report - including the PDF document, the data used, and any photography taken - click the green `Clone or download` button, and click `Download ZIP`. This will download all of the files. In order to unpack the ZIP file, open it, and drag the folder inside to the desktop (or desired location).
+
+## Contents:
+This repo contains 3 copies of the report: One printable PDF copy - found in the main folder, One non-printable PDF copy - found in the `report` folder, and one unformatted, `.docx` file - again found in the `report` folder.
+
+Data is all contained in the `Data` folder in Excel Spreadsheets; along with the survey questions used in the public survey.
