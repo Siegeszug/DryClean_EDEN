@@ -9,3 +9,5 @@ In order to download the entire contents of the report - including the PDF docum
 This repo contains 3 copies of the report: One printable PDF copy - found in the main folder, One non-printable PDF copy - found in the `report` folder, and one unformatted, `.docx` file - again found in the `report` folder.
 
 Data is all contained in the `Data` folder in Excel Spreadsheets; along with the survey questions used in the public survey.
+
+Images of the dry cleaners and ECO ALB materials can be found in the `Images` folder.
